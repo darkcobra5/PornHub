@@ -30,6 +30,5 @@ help - Guide for use
 ### CREDITS 💖
   
 * [LEVINA-LAB](http://github.com/levina-lab)
-* [KEN KAN](https://github.com/kenkannih)
 
 
