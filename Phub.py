@@ -71,7 +71,7 @@ async def repo(_, message):
         reply_markup=InlineKeyboardMarkup(
           [
             [
-              InlineKeyboardButton("🧩 REPO 🧩", url=f"{REPO_BOT}"),
+              InlineKeyboardButton("🧩 REPO 🧩", url=f"https://t.me/RukaSupport/4356"),
               InlineKeyboardButton("👩‍💻 OWNER 👩‍💻", url=f"t.me/{OWNER}")
               
               ]
