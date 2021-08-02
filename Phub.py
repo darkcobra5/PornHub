@@ -37,11 +37,11 @@ async def time_to_seconds(time):
 )
 async def start(_, message):
     m= await message.reply_text(
-        text=f"🇬🇧 Hello, i'm {BOT_NAME}. you can download pornhub video with the quality up to 1080p, Just type a query or the video name you want to download and the bot will send you the result!\n\n🇮🇩 .",
+        text=f"🇬🇧 Hello, i'm {BOT_NAME}. you can download pornhub video with the quality up to 1080p, Just type a query or the video name you want to download and the bot will send you the result! .",
         reply_markup=InlineKeyboardMarkup(
           [
             [
-              InlineKeyboardButton("📣 Updates Channel", url=f"t.me/{UPDATES_CHANNEL}")
+              InlineKeyboardButton("📣 Updates Channel", url=f"t.me/RukaUpdates")
             ]
           ]
         )
